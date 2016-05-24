@@ -1,13 +1,13 @@
 public class test {
 
     public static void main(String[] args) {
-        System.out.println("testing");
+        System.out.println("testing2");
         System.out.println("done!");
     }
 	
-	public void anotherFix()
+	public void something()
 	{
-		System.out.println("added another fix");
+		System.out.println("umm whats up");
 	}
 	
 
