@@ -6,6 +6,6 @@ public class test {
 	
 	public void newFeature()
 	{
-		System.out.println("started working on new feature");
+		System.out.println("started working on new feature. Finished working on new feature.");
 	}
 }
