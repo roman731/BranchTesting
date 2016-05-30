@@ -8,5 +8,10 @@ public class test {
 	{
 		System.out.println("Added some code. We are done with the new stuff feature.");
 	}
+	
+	public void everMoreNewStuff()
+	{
+		System.out.println("TEST");
+	}
 
 }
