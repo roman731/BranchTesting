@@ -4,5 +4,8 @@ public class test {
         System.out.println("test");
     }
 	
-Some new stuff here........................
+	public void newStuffMethod()
+	{
+		System.out.println("Added some code. We are done with the new stuff feature.");
+	}
 }
