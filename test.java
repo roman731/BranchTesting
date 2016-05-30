@@ -1,8 +1,7 @@
 public class test {
 
     public static void main(String[] args) {
-        System.out.println("applied the hotfix2! It is done!");
-        System.out.println("applied the hotfix2! It is done!");
+        System.out.println("applied the hotfix! It is done!");
     }
 	
 	public void newStuffMethod()
