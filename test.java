@@ -6,7 +6,7 @@ public class test {
 	
 	public void newStory()
 	{
-		System.out.println("Some new text here I'm working on. It's currently in progress.");
+		System.out.println("Some new text here I'm working on. It's currently in progress. Some more stuff.");
 	}
 
 }
